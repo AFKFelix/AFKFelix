@@ -6,8 +6,8 @@
   * 📫 You can contact me [here](https://twitter.com/AFKF3lix)
   
  ## Languages/Tools:
-  * 🎮 Unity/C#
-  * 💻 HTML, CSS, JS, JSON
-  * 🧱 Java/Spigot
-  * 💾 Arduino/C++
-  * 📱 Ionic/Angular/TS  
+  * 🎮 Unity / C#
+  * 💻 HTML / CSS / JS / JSON
+  * 🧱 Java / Spigot
+  * 💾 Arduino / C++
+  * 📱 Ionic / Angular / TS  
