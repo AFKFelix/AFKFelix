@@ -1,13 +1,12 @@
 # Hi 👋, I'm Felix
 
 ### A Developer, Maker and Gamer from Germany
-  * 📚 I'm currently developing an idle game
-  * 💎 I love Minecraft
-  * 📫 You can contact me [here](https://twitter.com/AFKF3lix)
+  * 📫 You can contact me [here](mailto:felix.lange@sbw27.de)
   
  ## Languages/Tools:
+  * 📱 Ionic / Angular / TS
+  * 🖥️ .NET / C#
   * 🎮 Unity / C#
   * 💻 HTML / CSS / JS / JSON
   * 🧱 Java / Spigot
   * 💾 Arduino / C++
-  * 📱 Ionic / Angular / TS  
